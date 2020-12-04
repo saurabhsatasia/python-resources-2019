@@ -3,7 +3,7 @@
 * Visualizatio of simple python code: 
       --> http://www.pythontutor.com/visualize.html#mode=edit
 * https://www.datacamp.com/courses/intro-to-python-for-data-science
-Updated 11/19/20 A curated list of Python 3 resources, books, websites, tutorials, code challenges. If you have any suggestions for 
+* Updated 11/19/20 A curated list of Python 3 resources, books, websites, tutorials, code challenges. If you have any suggestions for 
 additions to the list please open an issue.
 
 ### Books
